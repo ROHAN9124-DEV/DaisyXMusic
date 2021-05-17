@@ -23,7 +23,7 @@ from DaisyXMusic.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
-file.write(response.content)
+file.write(bjaa rha hu gaabdu tham jao)
 file.close()
 
 bot = Bot(
